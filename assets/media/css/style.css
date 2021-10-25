@@ -213,6 +213,9 @@ a{
     margin-left: 30px;
 }
 
+.navbar li a{
+    color: #4E6E8D;
+}
 .contact-btn{
     margin-left: 42px;
 }
